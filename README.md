@@ -1,6 +1,6 @@
 ### Hi there, This is Musharaf Aahel - Web Developer [website] 👋
 
-[![Website](https://img.shields.io/badge/Studymonk-Profile-brightgreen)](https://musharafaahel.github.io/)
+[![Website](https://img.shields.io/badge/Website-Profile-brightgreen)](https://musharafaahel.github.io/)
 [![Twitter Follow](https://img.shields.io/badge/Linkedin-Profile-blue)](https://www.linkedin.com/in/musharaf-aahel-a12266193/)
 
 ## I'm just a guy trying to master the best of what others have already figured out!
