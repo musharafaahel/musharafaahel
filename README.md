@@ -6,10 +6,10 @@
 ## I'm just a guy trying to master the best of what others have already figured out!
 
 - 🔭 I’m currently pursuing B.Sc Computer Science at  The New College!
-- 🌱 I’m currently learning coding, web technologies and !
+- 🌱 I’m currently learning coding, web technologies and C++ programming!
 - 👯 I’m looking to collaborate with like minded people and build something valuable to the community.
-- 🥅 2020 Goals: Learn Web Development, read more books.
-- ⚡ Fun fact: I love to game all the time when im not working.
+- 🥅 2021 Goals: Learn Web Development, C++ programming, read more books.
+- ⚡ Fun fact: I love to game all the time when i'm not working.
 
 
 
