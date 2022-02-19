@@ -8,7 +8,7 @@
 - 🔭 I’m currently pursuing B.Sc Computer Science at  The New College!
 - 🌱 I’m currently learning coding, web technologies and Jave programming!
 - 👯 I’m looking to collaborate with like minded people and build something valuable to the community.
-- 🥅 2021 Goals: Learn Web Development, Java programming, read more books.
+- 🥅 2022 Goals: Learn Web Development, Java programming, read more books.
 - ⚡ Fun fact: I love to game all the time when i'm not working.
 
 
