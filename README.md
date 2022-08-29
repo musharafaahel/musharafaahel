@@ -5,7 +5,7 @@
 
 ## I'm just a guy trying to master the best of what others have already figured out!
 
-- 🔭 I’m currently pursuing B.Sc Computer Science at  The New College!
+- 🔭 I’m currently pursuing Master of Computer Applications at  JAIN University, Bengaluru. I am a B.Sc Computer Science graduate.
 - 🌱 I’m currently learning coding, web technologies and Jave programming!
 - 👯 I’m looking to collaborate with like minded people and build something valuable to the community.
 - 🥅 2022 Goals: Learn Web Development, Java programming, read more books.
